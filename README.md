@@ -1,3 +1,3 @@
 # tournamentBracket
 
-https://gautham71298.github.io/tournamentFixtures/knockout.html
+https://gk-v1m-l0rd.github.io/tournamentFixtures/knockout.html
